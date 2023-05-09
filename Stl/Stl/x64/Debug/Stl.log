@@ -1,0 +1,3 @@
+﻿  Stl.cpp
+C:\Users\Private\Desktop\Stl\Stl\Stl.cpp(60,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Stl.vcxproj -> C:\Users\Private\Desktop\Stl\x64\Debug\Stl.exe
